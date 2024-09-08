@@ -14,6 +14,10 @@
 
 ---
 
+## Docker 支持
+
+参考 [https://github.com/XPoet/picx/commit/88a670addb1014a3b6079f29d0eba1f63b0062e0?diff=unified&w=0](https://github.com/XPoet/picx/commit/88a670addb1014a3b6079f29d0eba1f63b0062e0?diff=unified&w=0)
+
 ## 亮点 | Highlights
 
 - 在线使用、无需下载、无需安装。
